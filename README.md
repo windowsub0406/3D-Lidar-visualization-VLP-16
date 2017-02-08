@@ -3,6 +3,7 @@
 
 <p align="center">
     <img src="images/velodyne.gif" width="400" alt="bm_wls_image" /><br>
+	<b>The result video</b><br>
 </p>
   
   
@@ -28,7 +29,7 @@
   
 #### software  
   
->>Windows 8.1(x64), Visual studio 2013, OpenCV 3.0    
+>Windows 8.1(x64), Visual studio 2013, OpenCV 3.0    
 You need to isntall **VIZ** from OpenCV.
  
 #### hardware  
